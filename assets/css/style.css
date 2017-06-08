@@ -87,7 +87,6 @@ army green: 41521F;
 
 .third-section .container .third-text-section{
     margin-top: 70px;
-    width: 49%;
 }
 
 .third-text-section h5 , p{
@@ -103,8 +102,6 @@ army green: 41521F;
     color: white;
     font-weight: bolder;
     margin-top: 10px;
-    width: 22%;
-    height: 41px;
 }
 
 .third-image-section{
@@ -113,4 +110,20 @@ army green: 41521F;
 
 .third-image-section img{
 	border:11px solid #F5FFE2;
+}
+
+/*FOURTH-SECTION*/
+
+.fourth-section{
+	background-image: url(../img/all.jpg);
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+.fourth-text-section{
+	margin-top: 90px;
+    color: white;
+    text-shadow: -1px 1px rgba(0,0,0,0.5);
 }

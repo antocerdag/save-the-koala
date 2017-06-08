@@ -187,3 +187,31 @@ army green: 41521F;
 .sixth-section .boton-seccion-seis{
 	margin-bottom: 60px;
 }
+
+/* FOOTER */
+
+footer{
+	background-color: #41521F;
+}
+
+.titulo-footer{
+	color: #A89F68;
+	margin-top: 100px;
+}
+
+.mail{
+	color: #A89F68;
+	margin-bottom: 110px;
+}
+
+.links-footer{
+	margin-top: 100px;	
+	list-style-type: none;
+	text-align: left;
+}
+
+
+.a{
+	text-decoration: none;
+	color: #A89F68;
+}

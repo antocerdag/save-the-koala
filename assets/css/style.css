@@ -151,3 +151,39 @@ army green: 41521F;
 .fifth-section .text-center p{
 	color: grey;
 }
+
+/* SIXTH SECTION */
+
+.sixth-section{
+	background-color: #A89F68;
+	text-align: center;
+}
+.sixth-section .precio{
+    color: white;
+    font-size: 78px;
+    margin-top: 50px;
+}
+
+.sixth-section h2{
+	color: #41521F;
+	margin-top: 70px;
+}
+.sixth-section .precio p{
+    display: inline-block;
+    font-size: 17px;
+}
+
+.sixth-section .precio .signo-peso{
+	margin-top: -10px;
+}
+.text-uppercase{
+	 text-transform: uppercase;
+}
+
+.grey-text{
+	color: #333333;
+}
+
+.sixth-section .boton-seccion-seis{
+	margin-bottom: 60px;
+}
